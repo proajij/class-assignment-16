@@ -1,0 +1,117 @@
+.heading{
+    background-color: #101446;
+}
+.header-logo img {
+	width: 100px;
+	margin-top: 13px;
+}
+.menu{
+padding: 10px 0;
+}
+.menu ul{
+list-style: none;
+
+margin-bottom: 0;
+text-align: right;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a {
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+	font-size: 20px;
+	padding: 0 25px;
+	line-height: 67px;
+} 
+.banner {
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.6)) , url(./Images/banner.jpg);
+	padding: 320px 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: bottom center;
+}
+
+.banner-text h1{
+font-size: 30px;
+font-weight: bold;
+}
+.banner-text p{
+font-size: 22px;
+font-weight:600;
+}
+.banner button{
+    background-color: #337ab7;
+    display: inline-block;
+}
+.banner-text a{
+   
+    display: inline-block;
+    text-decoration: none;
+}
+.team{
+    background-color: #bac1f3;
+}
+.team-heading h1{
+    font-weight: 400;
+    font-size: 70px;
+}
+.team button{
+    background-color: #337ab7;
+}
+.card-img h4{
+    font-size: 15px;
+}
+.card-img p{
+    font-size: 15px;
+    color: #6c757d;
+}
+.about-section{
+    background-color: #c2d4ea;
+}
+.about-section h1{
+ font-weight: 500;
+}
+.details ul{
+    list-style: none;
+    text-align: justify;
+    color: #4e4e4e;
+}
+.about-section p{
+    text-align: justify;
+  font-weight: 400;
+  font-size: 15px;
+  color: #4e4e4e;
+
+}
+.about-section h3{
+    text-align: justify;
+ 
+}
+
+.about-section h5{
+    text-align: justify;
+    font-size: 25px;
+    color: #4e4e4e;
+ 
+
+}
+.contact{
+    background-color: #f5f5f5;
+}
+.contact h1{
+    font-weight: 500;
+}
+input{
+    background-color: #5bc0de;
+}
+.contact-form{
+    text-align: justify;
+}
+.contact-form p{
+    font-weight: 600;
+}
+.bold{
+    font-weight: 700;
+}
